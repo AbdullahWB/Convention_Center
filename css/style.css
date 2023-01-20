@@ -566,9 +566,10 @@ footer part
     font-feature-settings: 'liga' off;
     /* Text / Gray 300 */
     color: #D9DBE1;
-    text-align: right;
+    text-align: center;
     padding-top: 56px;
     padding-bottom: 16px;
+    padding-left: 32px;
 }
 
 #footer .footer-icon .footer-img {
